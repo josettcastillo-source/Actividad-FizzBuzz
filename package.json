@@ -1,8 +1,23 @@
 {
-  "name": "pf-13-js",
-  "private": true,
+  "name": "pf-13",
   "version": "0.0.0",
+  "private": true,
+  "description": "- [Node.js](https://nodejs.org/) (v18 o superior recomendado)\r - npm (incluido con Node.js)\r - VSCode",
+  "homepage": "https://github.com/josettcastillo-source/Actividad-FizzBuzz#readme",
+  "bugs": {
+    "url": "https://github.com/josettcastillo-source/Actividad-FizzBuzz/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josettcastillo-source/Actividad-FizzBuzz.git"
+  },
+  "license": "ISC",
+  "author": "",
   "type": "module",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
   "scripts": {
     "dev": "vite",
     "build": "vite build",
